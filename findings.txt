@@ -1,0 +1,2 @@
+if you want to view everything that is in htdoc folder, you type localhost:8080/xampp
+
